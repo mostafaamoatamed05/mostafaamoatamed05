@@ -1,25 +1,26 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Mechatronics+Engineer+🤖;ROS2+%7C+Embedded+Systems+%7C+Autonomous+Robots;Building+AMRs,+Robotic+Arms,+and+Healthcare+Robotics;Always+Learning.+Always+Building."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=ROS2+Robotics+Engineer;Autonomous+Mobile+Robots+(AMRs);Industrial+Robotics+%7C+KUKA+ABB+FANUC+Mitsubishi;Embedded+Systems+%7C+Computer+Vision;Always+Learning.+Always+Building."/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Mostafa</h1>
+<h1 align="center">Hi 👋 I'm Mostafa ِA. Moatamed </h1>
 
 <h3 align="center">
-Mechatronics Engineering Student • Robotics Instructor • Robotics Engineer
+Robotics Engineer | ROS2 Developer | Embedded Systems
 </h3>
 
 <p align="center">
-I build intelligent robotic systems by combining
-Embedded Systems, ROS2, Control, Electronics, and AI.
+I build robotic systems by integrating Embedded Systems, ROS2, Control, Computer Vision, and Electronics.
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Mechatronics Engineering Student at Egyptian Chinese University (ECU)
+🎓4th Grade Mechatronics Engineering Student at Egyptian Chinese University (ECU)
 
-🤖 Robotics Instructor at EduZone,STEM Zone
+🤖 Robotics Instructor at EduZone , STEM Zone
+
+💻 R&D Robotics Engineering Intern at BEDO For Innovating Education
 
 💻 Passionate about Robotics, Embedded Systems and Autonomous Navigation
 
@@ -37,71 +38,12 @@ Embedded Systems, ROS2, Control, Electronics, and AI.
 - Industrial Robotics (KUKA)
 - Embedded Systems (STM32 & ESP32)
 - Computer Vision for Robotics
-- Healthcare Robotics
 
-🎯 Current Goal:
-Become a Robotics R&D Engineer building robots that solve real-world problems.
+🎯 Current Goal
+
+To build a career in Robotics R&D by developing autonomous robotic systems with ROS2 while mastering industrial robot platforms such as KUKA, ABB, FANUC, and Mitsubishi.
 
 ---
-# 🚀 Technologies & Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AVR-8A8A8A?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Gazebo-242424?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RViz-22314E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nav2-22314E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TF2-22314E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/URDF-4B8BBE?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Xacro-4B8BBE?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white"/>
-
-</p>
-
-
 
 # 🛠 Tech Stack
 
@@ -253,4 +195,4 @@ Become a Robotics R&D Engineer building robots that solve real-world problems.
 
 > "Robots are built where software meets hardware."
 
-⭐ Thanks for visiting my profile!
+I'm always interested in robotics, embedded systems, industrial automation, and autonomous systems. Feel free to connect or collaborate.
