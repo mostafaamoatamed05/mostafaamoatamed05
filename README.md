@@ -143,18 +143,6 @@ To build a career in Robotics R&D by developing autonomous robotic systems with 
   
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mostafaamoatamed05&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaamoatamed05&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
